@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "react-native-chat",
+    "slug": "snack-2e1e932e-b897-4cb2-9dda-6ec425feacb4",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.poopmaste11.snack2e1e932eb8974cb29dda6ec425feacb4"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.poopmaste11.snack2e1e932eb8974cb29dda6ec425feacb4"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

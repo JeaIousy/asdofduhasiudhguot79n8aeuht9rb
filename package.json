@@ -1,0 +1,52 @@
+{
+  "name": "olool",
+  "version": "1.0.0",
+  "description": "React Native chat implementation using Firebase 🔥",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@firebase/app": "^0.6.29",
+    "@firebase/auth": "^0.16.8",
+    "@react-navigation/native": "^6.0.1",
+    "@react-navigation/stack": "^6.0.1",
+    "expo": "^42.0.3",
+    "expo-av": "^9.2.3",
+    "expo-camera": "^11.2.2",
+    "expo-permissions": "^12.1.1",
+    "expo-splash-screen": "~0.11.2",
+    "expo-status-bar": "~1.0.4",
+    "expo-updates": "~0.8.1",
+    "firebase": "^8.8.1",
+    "i": "^0.3.6",
+    "lodash": "^4.17.21",
+    "npm": "^7.20.3",
+    "prop-types": "^15.7.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-39.0.4.tar.gz",
+    "react-native-gesture-handler": "~1.10.2",
+    "react-native-gifted-chat": "^0.16.3",
+    "react-native-jitsi-meet": "^2.1.1",
+    "react-native-maps": "0.28.0",
+    "react-native-meet-hour-sdk": "^1.0.3",
+    "react-native-reanimated": "~2.2.0",
+    "react-native-screens": "~3.4.0",
+    "react-native-unimodules": "~0.14.5",
+    "react-native-video": "^5.1.1",
+    "react-native-web": "^0.17.1",
+    "react-native-web-maps": "^0.3.0",
+    "react-native-webrtc": "^1.92.0",
+    "react-native-webview": "^11.6.6",
+    "socket.io-client": "^4.1.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0"
+  }
+}
